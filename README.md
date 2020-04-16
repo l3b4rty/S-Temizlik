@@ -5,7 +5,7 @@
 <h3>Sürüm Yeniliklerinden Haberdar Olmanız İçin:</h3>
 https://github.com/otb123/S-Temizlik/releases
 
-<br><br>
+<br>
 
 # Tek Tuşla Temizlik ve Güvenlik İşlemleri!
 <img src="https://i.hizliresim.com/rvhFLo.png"> <img src="https://i.hizliresim.com/075vim.png">
